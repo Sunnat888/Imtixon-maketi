@@ -1,0 +1,325 @@
+.header{
+    width: 1290px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+    background: #212121FC;
+}
+
+body{
+    background-color: #383838fc;
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    width: 150px;
+    height: 23px;
+
+}
+
+.input-header{
+    width: 4080px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    margin-left: 180px;
+    margin-top: 2px;
+    color: white;
+    opacity: 80%;
+}
+
+.header-img{
+    width: 200px;
+    height: 40px;
+    margin-left: 300px;
+}
+
+.search-h{
+    width: 20px;
+    height: 20px;
+    background: #212121FC;
+    margin-top: 5px;
+    color: #212121FC;
+}
+
+// section{
+//     background-color: #212121FC;
+//     // width: 140px;
+//     // height: 600px;
+// }
+
+.section-container{
+    display: flex;
+    justify-content: center;
+}
+
+.hero-left{
+    display: flex;
+    justify-content: center;
+    width: 180px;
+    margin-left: -1108px;
+    height: 600px;
+    background-color: rgb(39, 39, 39);
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    display: flex;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 13px;
+    color: white;
+    margin-top: 20px;
+}
+
+.home{
+    margin-left: -50px;
+    color: white;
+}
+
+.trend-icon{
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: -100px;
+}
+
+.trend{
+    color: white;
+    margin-top:10px;
+    margin-left: -50px;
+}
+
+.about{
+    color: white;
+    margin-left: -50px;
+    margin-top: 10px;
+}
+
+.contact{
+    color: white;
+    margin-left: -50px;
+    margin-top: 10px;
+}
+
+.subs-icon{
+    width: 20px;
+    height: 20px;
+    margin-top: 40px;
+    margin-left: -20px;
+}
+
+.icon-olov{
+    width: 20px;
+    height: 20px;
+    margin-left: -20px;
+    margin-top: 64px;
+}
+
+.icon-you{
+    width: 20px;
+    height: 20px;
+    margin-top: 90px;
+    margin-left: -20px;
+}
+
+.container-menu{
+    margin-top: 150px;
+    height: 200px;
+    margin-left: -90px;
+}
+
+a{
+    display: flex;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 13px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.img-lib{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-top: -160px;
+    margin-left: 70px;
+}
+
+.img-history{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -130px;
+}
+
+.img-video{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -90px;
+}
+
+.img-subsss{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -55px;
+}
+
+.img-tern{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+
+.container-user{
+    position: absolute;
+    margin-top: 360px;
+    margin-left: -130px;
+}
+
+.photo-user{
+    margin-left: 75px;
+    margin-top: 20px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+.phot-userssss{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 74px;
+    margin-top: -90px;
+}
+
+.photo-pep{
+    position: absolute;
+    width: 20px ;
+    height: 20px;
+    margin-left: 74px;
+    margin-top: -55px;
+}
+
+.img-ocean{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 74px;
+    margin-top: -20px;
+}
+
+.buttons{
+    margin-top: 60px;
+    display: flex;
+    width: 600px;
+    height: 30px;
+    gap: 10px;
+}
+
+.btn-button-all{
+    width: 60px;
+    height: 30px;
+    background-color: #535353fc;
+    border-radius: 20px;
+    color: white;
+    margin-left: -1000px;
+}
+
+.btn-button-yatchs{
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-boats{
+    width: 80px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-cookery{
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-electrical{
+    width: 150px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-photocopier{
+    width: 160px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-apple{
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-css{
+    width: 60px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-figma{
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.btn-button-astronomy{
+    width: 80px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: #535353fc;
+}
+
+.video{
+    background-color: #212121FC;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+img{
+    flex-direction: column;
+}
